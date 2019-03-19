@@ -21,4 +21,5 @@ The goal of this project is to provide simple implementations of [chaotic maps](
 | <img src="images/continuous/lorenz.png" width="100"/>           | Lorenz             | Continuous  | [:information_source:](continuous/lorenz/lorenz.pde)       |
 | <img src="images/continuous/lotka_volterra.png" width="100"/>   | Lotka-Volterra     | Continuous  | [:information_source:](continuous/lotka_volterra/lotka_volterra.pde) |
 | <img src="images/continuous/rossler.png" width="100"/>          | Rössler            | Continuous  | [:information_source:](continuous/rossler/rossler.pde)     |
+| <img src="images/continuous/thomas.png" width="100"/>           | Thomas             | Continuous  | [:information_source:](continuous/thomas/thomas.pde)       |
 | <img src="images/continuous/vanderpol.png" width="100"/>        | Van der Pol        | Continuous  | [:information_source:](continuous/vanderpol/vanderpol.pde) |
