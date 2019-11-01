@@ -7,7 +7,7 @@ The goal of this project is to provide simple implementations of [chaotic maps](
 | Image                                                           | Name               | Time Domain | Code        |
 | :---                                                            | :---               |    :---:    |    :---:    |
 | <img src="images/discrete/duffing.png" width="100"/>            | Duffing            | Discrete    | [:information_source:](discrete/duffing/duffing.pde)       |
-| <img src="images/discrete/chossat-golubitsky.png" width="100"/> | Chossat-Golubitsky | Discrete    | [:information_source:](discrete/chossat-golubitsky/chossat-golubitsky.pde)|
+| <img src="images/discrete/chossat_golubitsky.png" width="100"/> | Chossat-Golubitsky | Discrete    | [:information_source:](discrete/chossat-golubitsky/chossat-golubitsky.pde)|
 | <img src="images/discrete/gingerbreadman.png" width="100"/>     | Gingerbreadman     | Discrete    | [:information_source:](discrete/gingerbreadman/gingerbreadman.pde) |
 | <img src="images/discrete/henon.png" width="100"/>              | Hénon              | Discrete    | [:information_source:](discrete/henon/henon.pde)           |
 | <img src="images/discrete/ikeda.png" width="100"/>              | Ikeda              | Discrete    | [:information_source:](discrete/ikeda/ikeda.pde)           |
